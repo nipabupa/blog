@@ -46,8 +46,6 @@ tags:
 
 [Github Release](https://github.com/starship/starship/releases)下载最新版本二进制文件，并添加环境变量。
 
-新手推荐新建`D:\bin`文件夹添加环境变量`PATH`，此文件夹用于放置终端相关二进制工具
-
 #### 配置PowerShell
 
 终端启动上面新配置的Powershell，执行以下命令，打开PowerShell配置文件
@@ -73,3 +71,8 @@ Invoke-Expression (&starship init powershell)
 详细配置参考[官方配置文档](https://starship.rs/zh-cn/config/)
 
 Sharship提供了多种预设主题，可以直接更换，我更喜欢[Tokyo Night Preset](https://starship.rs/zh-CN/presets/tokyo-night)
+
+```powershell
+# 可使用如下命令配置
+starship preset tokyo-night -o ~/.config/starship.toml
+```

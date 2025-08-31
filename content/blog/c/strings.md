@@ -3,6 +3,7 @@ title: C语言字符串操作
 description: 
 date: 2025-08-12T08:14:12+08:00
 draft: false
+featuredimg: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAKH2WihUpufvuakb4xH9siasX-uMyPJAAJIGAADcwhV-bOcKe0Qlq42BA.jpeg
 categories:
     - C语言
 tags:
