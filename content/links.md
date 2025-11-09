@@ -27,3 +27,9 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 - 阿里云：`https://mirrors.aliyun.com/pypi/simple/`
 - 中国科技大学：`https://pypi.mirrors.ustc.edu.cn/simple/`
 - 豆瓣：`http://pypi.douban.com/simple/`
+
+
+## 图床
+
+PICUI: https://picui.cn/
+用户名: 你怕不怕
