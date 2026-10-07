@@ -1,0 +1,26 @@
+disabled = false
+locale = "zh"
+label = "中文"
+weight = 1
+title = "你怕不怕的小黑屋"
+
+[params]
+  displayName = "中文"
+  isoCode = "zh"
+  rtl = false
+  dateFormat = "2 January 2026"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "我怕怕的"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+    name = "你怕不怕的小黑屋"
+    # email = "youremail@example.com"
+    image = "img/blowfish_logo.png"
+    imageQuality = 96
+    headline = "我怕怕的"
+    # bio = "A little bit about you"
+    links = [
+        { github = "https://github.com/nipabupa" },
+    ]

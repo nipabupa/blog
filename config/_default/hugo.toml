@@ -3,10 +3,10 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://nipabupa.github.io/"
-defaultContentLanguage = "zh-cn"
+# baseURL = "https://your_domain.com/"
+defaultContentLanguage = "zh"
 
-pluralizeListTitles = true # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 0
@@ -15,11 +15,10 @@ buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
-
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
-  pagerSize = 9
+  pagerSize = 100
 
 [imaging]
   anchor = 'Center'
